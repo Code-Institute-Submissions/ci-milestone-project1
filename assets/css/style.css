@@ -6,6 +6,8 @@ body {
 /*----------NAVBAR---------*/
 
 
+/*----------CAROUSEL---------*/
 
-
-/*----------HOME---------*/
+.carousel-container {
+    margin: 0;
+}
