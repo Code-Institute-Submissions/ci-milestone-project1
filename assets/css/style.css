@@ -1,5 +1,6 @@
 body {
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
+    color: #fafafa;
 }
 
 
@@ -13,8 +14,30 @@ body {
     padding-top: 56px;
 }
 
+
+
 /*----------ABOUT US---------*/
 
-h2 {
+.about-container {
+    position: relative;
+    margin-top: 0;
+    background-attachment: fixed;
+    background-image: url("../images/catcoffee.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+
+}
+
+.about-title {
     text-transform: uppercase;
+    letter-spacing: 6px;
+    margin-top: 50px;
+}
+
+.about-p {
+    font-size: 1em;
+    margin: 30px;
+    
 }
