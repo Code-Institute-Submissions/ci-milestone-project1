@@ -3,6 +3,13 @@ body {
     color: #fafafa;
 }
 
+/*----------Section title---------*/
+.sec-title {
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    margin-top: 50px;
+}
+
 
 /*----------NAVBAR---------*/
 
@@ -27,17 +34,21 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-
 }
 
-.about-title {
-    text-transform: uppercase;
-    letter-spacing: 6px;
-    margin-top: 50px;
-}
 
 .about-p {
     font-size: 1em;
     margin: 30px;
-    
+}
+
+/*----------OUR TEAM---------*/
+
+.team-container {
+    background-color: #464646;
+}
+
+.team-p {
+    font-size: 1em;
+    margin: 30px;
 }
