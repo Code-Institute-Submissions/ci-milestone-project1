@@ -14,10 +14,10 @@
 
 <body>
   <header>
-    <!--********NAVBAR/HOME********-->
-    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <!--********NAVBAR********-->
+    <nav class="navbar navbar-expand-sm fixed-top navbar-dark navbar-bg">
       <a href="#" class="navbar-brand">Maxx Cafe</a>
-      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarmenu">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarmenu" aria-controls="navbarmenu" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarmenu">
@@ -42,46 +42,26 @@
           <li data-target="#catcarousel" data-slide-to="3"></li>
           <li data-target="#catcarousel" data-slide-to="4"></li>
         </ol>
-        
+
         <!--********CAROUSEL - SLIDES********-->
         <div class="carousel-inner">
           <div class="carousel-item active" data-interval="10000">
             <img src="assets/images/cat-1.jpg" class="d-block w-100" alt="cat1">
-            <div class="carousel-caption d-md-block">
-              <h5>First slide label</h5>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-            </div>
           </div>
           <div class="carousel-item" data-interval="5000">
             <img src="assets/images/cat-2.jpg" class="d-block w-100" alt="cat2">
-            <div class="carousel-caption d-md-block">
-              <h5>Second slide label</h5>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
           </div>
           <div class="carousel-item" data-interval="5000">
             <img src="assets/images/cat-3.jpg" class="d-block w-100" alt="cat3">
-            <div class="carousel-caption d-md-block">
-              <h5>Third slide label</h5>
-              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-            </div>
           </div>
           <div class="carousel-item" data-interval="5000">
             <img src="assets/images/cat-4.jpg" class="d-block w-100" alt="cat4">
-            <div class="carousel-caption d-md-block">
-              <h5>Third slide label</h5>
-              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-            </div>
           </div>
           <div class="carousel-item" data-interval="5000">
             <img src="assets/images/cat-5.jpg" class="d-block w-100" alt="cat5">
-            <div class="carousel-caption d-md-block">
-              <h5>Third slide label</h5>
-              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-            </div>
           </div>
         </div>
-        
+
         <!--********CAROUSEL - LEFT AND RIGHT CONTROLS********-->
         <a class="carousel-control-prev" href="#catcarousel" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -95,14 +75,21 @@
     </div>
   </header>
 
-  <div class="container-fluid">
+  <!--********ABOUT US********-->
   <section>
-    <h1>
-      ABOUT US
-    </h1>
+    <div class="container-fluid about-container">
+      <div class="row">
+        <div class="col-md-12 col-sm-6 col-xs-12 text-center">
+          <h2>About us</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+      </div>
+    </div>
   </section>
-  </div>
-  
+
   <section></section>
   <section></section>
   <section></section>

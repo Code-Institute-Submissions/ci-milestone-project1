@@ -5,9 +5,20 @@ body {
 
 /*----------NAVBAR---------*/
 
+.navbar-bg {
+    background: #5D5C61;
+}
+
+
 
 /*----------CAROUSEL---------*/
 
 .carousel-container {
-    margin: 0;
+    padding-top: 56px;
+}
+
+/*----------ABOUT US---------*/
+
+h2 {
+    text-transform: uppercase;
 }
