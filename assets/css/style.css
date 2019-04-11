@@ -5,6 +5,7 @@ body {
 
 
 /*----------Section title---------*/
+
 .sec-title {
     text-transform: uppercase;
     letter-spacing: 6px;
@@ -14,6 +15,10 @@ body {
 
 /*----------NAVBAR---------*/
 
+.nav-li {
+  margin-right: 10px;
+  text-transform: uppercase;
+}
 
 
 /*----------CAROUSEL---------*/
