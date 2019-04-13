@@ -220,9 +220,11 @@ body {
   padding-bottom: 30px;
 }
 
-.contact-info {
-  padding-bottom: 20px;
+.contact-info, .gmaps {
+  padding: 0 30px 20px 20px;
 }
+
+
 
 .gmaps iframe {
   height: 300px;
