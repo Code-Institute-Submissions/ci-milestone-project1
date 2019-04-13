@@ -185,7 +185,8 @@ body {
 /*----------CONTACT---------*/
 
 .contact-container {
-  background-color: #343a40;
+  background-color: red;
+  padding-bottom: 30px;
 }
 
 .contact-info {
@@ -198,3 +199,24 @@ body {
   border-radius: 8px;
   box-shadow: 7px 7px 9px black;
 }
+
+
+/*----------Footer---------*/
+.footer-container {
+  background-color: #343a40;
+  padding: 20px;
+  margin: 0;
+  text-align: center;
+  display: inline-block;
+}
+
+.footer-container a{
+  color: #fafafa;
+  transition-duration: 1s;
+  padding: 10px;
+}
+
+.footer-container a:hover {
+  color: #6c757d;
+}
+
