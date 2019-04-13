@@ -253,7 +253,10 @@ body {
   display: inline-block;
 }
 
-.facebook, .twitter, .instagram, .youtube {
+.facebook,
+.twitter,
+.instagram,
+.youtube {
   color: #fafafa;
   transition-duration: 1s;
   padding: 10px;
