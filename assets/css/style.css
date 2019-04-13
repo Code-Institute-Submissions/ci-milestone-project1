@@ -93,8 +93,7 @@ body {
 }
 
 .workshop-photo {
-  margin: 40px 30px 60px 30px;
-
+  margin: 40px 0px 60px 0px;
 }
 
 .workshop-photo img {
@@ -123,12 +122,13 @@ body {
   -ms-filter: grayscale(0);
 }
 
-
-.workshop-photo a {
+.workshop-title {
   text-transform: uppercase;
-  text-decoration: none;
-  color: #fafafa;
+  letter-spacing: 6px;
+  font-weight: bold;
+  padding: 20px 0;
 }
+
 
 /*----------CONTACT US---------*/
 
