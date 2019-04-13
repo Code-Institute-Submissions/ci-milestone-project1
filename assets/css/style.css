@@ -10,6 +10,7 @@ body {
   text-transform: uppercase;
   letter-spacing: 6px;
   margin-top: 50px;
+  font-weight: bold;
 }
 
 
@@ -129,83 +130,6 @@ body {
   color: #fafafa;
 }
 
-/*----------WORKSHOP - HOVER---------*/
-
-@-webkit-keyframes hvr-wobble-skew {
-  16.65% {
-    -webkit-transform: skew(-12deg);
-    transform: skew(-12deg);
-  }
-  33.3% {
-    -webkit-transform: skew(10deg);
-    transform: skew(10deg);
-  }
-  49.95% {
-    -webkit-transform: skew(-6deg);
-    transform: skew(-6deg);
-  }
-  66.6% {
-    -webkit-transform: skew(4deg);
-    transform: skew(4deg);
-  }
-  83.25% {
-    -webkit-transform: skew(-2deg);
-    transform: skew(-2deg);
-  }
-  100% {
-    -webkit-transform: skew(0);
-    transform: skew(0);
-  }
-}
-
-@keyframes hvr-wobble-skew {
-  16.65% {
-    -webkit-transform: skew(-12deg);
-    transform: skew(-12deg);
-  }
-  33.3% {
-    -webkit-transform: skew(10deg);
-    transform: skew(10deg);
-  }
-  49.95% {
-    -webkit-transform: skew(-6deg);
-    transform: skew(-6deg);
-  }
-  66.6% {
-    -webkit-transform: skew(4deg);
-    transform: skew(4deg);
-  }
-  83.25% {
-    -webkit-transform: skew(-2deg);
-    transform: skew(-2deg);
-  }
-  100% {
-    -webkit-transform: skew(0);
-    transform: skew(0);
-  }
-}
-
-.hvr-wobble-skew {
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: perspective(1px) translateZ(0);
-  transform: perspective(1px) translateZ(0);
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-}
-
-.hvr-wobble-skew:hover,
-.hvr-wobble-skew:focus,
-.hvr-wobble-skew:active {
-  -webkit-animation-name: hvr-wobble-skew;
-  animation-name: hvr-wobble-skew;
-  -webkit-animation-duration: 1s;
-  animation-duration: 1s;
-  -webkit-animation-timing-function: ease-in-out;
-  animation-timing-function: ease-in-out;
-  -webkit-animation-iteration-count: 1;
-  animation-iteration-count: 1;
-}
-
 /*----------CONTACT US---------*/
 
 .contact-container {
@@ -220,17 +144,24 @@ body {
   padding-bottom: 30px;
 }
 
-.contact-info, .gmaps {
+
+.contact-info,
+.gmaps {
   padding: 0 30px 20px 20px;
 }
-
-
 
 .gmaps iframe {
   height: 300px;
   width: 300px;
   border-radius: 8px;
   box-shadow: 7px 7px 9px black;
+}
+
+.general-enquiry {
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  color: #dc3545;
+  font-weight: bold;
 }
 
 /*----------SUBMIT BUTTON - HOVER---------*/
