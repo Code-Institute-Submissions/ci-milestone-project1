@@ -253,12 +253,24 @@ body {
   display: inline-block;
 }
 
-.footer-container a {
+.facebook, .twitter, .instagram, .youtube {
   color: #fafafa;
   transition-duration: 1s;
   padding: 10px;
 }
 
-.footer-container a:hover {
-  color: #6c757d;
+.facebook:hover {
+  color: #3C5A99;
+}
+
+.twitter:hover {
+  color: #38A1F3;
+}
+
+.instagram:hover {
+  color: #475051;
+}
+
+.youtube:hover {
+  color: #ff0000;
 }
