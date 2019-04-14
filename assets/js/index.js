@@ -1,8 +1,10 @@
+// SMOOTH SCROLLING FEATURE
+
 $(document).ready(function() {
 
     var scrollLink = $('.scroll');
 
-    // Smooth scrolling
+    
     scrollLink.click(function(e) {
         e.preventDefault();
         $('body,html').animate({
@@ -10,7 +12,9 @@ $(document).ready(function() {
         }, 1000);
     });
 
-    // Active link switching
+
+// ACTIVE LINK INDICATOR FEATURE
+
     $(window).scroll(function() {
         var scrollbarLocation = $(this).scrollTop();
 
