@@ -224,6 +224,24 @@ body {
   margin: auto 0px 30px 0px;
 }
 
+/*----------WORKSHOP - MEDIA QUERIES---------*/
+
+@media (min-width: 1281px) {
+  .workshop-title {
+    font-size: 2.5em;
+  }
+
+  .workshop-container p {
+    font-size: 1.5em;
+  }
+  .subscription-title {
+    font-size: 1.5em;
+  }
+  .email-field {
+    width: 70%;
+  }
+}
+
 
 /*----------CONTACT US---------*/
 
