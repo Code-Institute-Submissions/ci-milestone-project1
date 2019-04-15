@@ -44,6 +44,12 @@ body {
   }
 }
 
+@media (min-width: 1281px) {
+  .nav-li {
+    font-size: 1em;
+  }
+}
+
 /*----------CAROUSEL---------*/
 
 .carousel-container {
@@ -187,7 +193,7 @@ body {
     font-size: 3em;
   }
   .staff-d {
-    font-size: 2.5em;
+    font-size: 2em;
   }
 
 }
@@ -253,13 +259,13 @@ body {
 
 @media (min-width: 768px) {
   .workshop-container {
-    height: 100vh;
+    padding-bottom: 140px;
   }
+  
   .subscription {
     margin-top: 20px;
   }
 }
-
 
 @media (min-width: 1281px) {
   .workshop-title {
@@ -320,8 +326,8 @@ body {
 
 @media (min-width: 768px) {
   .contact-container {
-   padding-top: 120px;
-   padding-bottom: 50px;
+    padding-top: 120px;
+    padding-bottom: 50px;
   }
   #contact-title {
     padding-bottom: 50px;
@@ -329,6 +335,10 @@ body {
 }
 
 @media (min-width: 1281px) {
+  .contact-container {
+    padding-top: 20px;
+  }
+  
   .contact-info {
     font-size: 1.2em;
   }
