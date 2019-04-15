@@ -81,6 +81,20 @@ body {
 }
 
 
+/*----------ABOUT US - MEDIA QUERY---------*/
+
+@media (min-width: 1281px) {
+  .about-p {
+    font-size: 1.5em;
+  }
+  
+  .sec-title {
+    font-size: 3em;
+  }
+}
+
+
+
 /*----------OUR TEAM---------*/
 
 .team-container {
