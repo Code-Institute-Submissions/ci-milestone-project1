@@ -241,7 +241,18 @@ body {
   margin: auto 0px 30px 0px;
 }
 
+
 /*----------WORKSHOP - MEDIA QUERIES---------*/
+
+@media (min-width: 768px) {
+  .workshop-container {
+    padding-bottom: 140px;
+  }
+  .subscription {
+    margin-top: 20px;
+  }
+}
+
 
 @media (min-width: 1281px) {
   .workshop-title {
@@ -299,6 +310,10 @@ body {
 
 
 /*----------CONTACT US - MEDIA QUERIES---------*/
+
+@media (min-width: 768px) {
+  
+}
 
 @media (min-width: 1281px) {
   .contact-info {
