@@ -14,6 +14,16 @@ body {
 }
 
 
+/*----------SECTION TITLES - MEDIA QUERIES---------*/
+
+@media (min-width: 1281px) {
+
+  .sec-title {
+    font-size: 3em;
+  }
+}
+
+
 /*----------NAVBAR---------*/
 
 .nav-li {
@@ -81,18 +91,13 @@ body {
 }
 
 
-/*----------ABOUT US - MEDIA QUERY---------*/
+/*----------ABOUT US - MEDIA QUERIES---------*/
 
 @media (min-width: 1281px) {
   .about-p {
     font-size: 1.5em;
   }
-  
-  .sec-title {
-    font-size: 3em;
-  }
 }
-
 
 
 /*----------OUR TEAM---------*/
@@ -145,6 +150,22 @@ body {
   padding: 0 0 0 20px;
   margin: 0;
   font-size: 0.8em;
+}
+
+
+/*----------OUR TEAM - MEDIA QUERIES---------*/
+
+@media (min-width: 1281px) {
+  .team-p {
+    font-size: 1.5em;
+  }
+  .staff-name {
+    font-size: 3em;
+  }
+  .staff-d {
+    font-size: 2.5em;
+  }
+
 }
 
 
