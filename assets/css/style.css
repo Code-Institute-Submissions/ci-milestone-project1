@@ -280,6 +280,24 @@ body {
   font-weight: bold;
 }
 
+/*----------CONTACT US - MEDIA QUERIES---------*/
+
+@media (min-width: 1281px) {
+  .contact-info {
+    font-size: 1.5em;
+  }
+
+  .enquiries {
+    font-size: 2em;
+  }
+
+  .gmaps iframe {
+    height: 500px;
+    width: 600px;
+  }
+}
+
+
 
 /*----------BUTTON - HOVER---------*/
 
