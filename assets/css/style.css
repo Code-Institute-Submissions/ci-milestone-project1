@@ -182,6 +182,11 @@ body {
   .team-container {
     padding-bottom: 70px;
   }
+  .staffinfo-container {
+    width: 70%;
+    height:70%;
+    margin: auto;
+  }
 }
 
 
@@ -322,7 +327,6 @@ body {
 .enquiries {
   text-transform: uppercase;
   letter-spacing: 6px;
-  color: #dc3545;
   font-weight: bold;
 }
 
