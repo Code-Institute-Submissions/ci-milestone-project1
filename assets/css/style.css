@@ -17,7 +17,6 @@ body {
 /*----------SECTION TITLES - MEDIA QUERIES---------*/
 
 @media (min-width: 1281px) {
-
   .sec-title {
     font-size: 3em;
   }
@@ -200,7 +199,6 @@ body {
   .staff-d {
     font-size: 2em;
   }
-  
   .staffinfo-container {
     width: 70%;
     height:70%;
@@ -271,7 +269,6 @@ body {
   .workshop-container {
     padding-bottom: 140px;
   }
-  
   .subscription {
     margin-top: 20px;
   }
@@ -281,7 +278,6 @@ body {
   .workshop-title {
     font-size: 2.5em;
   }
-
   .workshop-container p {
     font-size: 1.5em;
   }
@@ -347,15 +343,12 @@ body {
   .contact-container {
     padding-top: 20px;
   }
-  
   .contact-info {
     font-size: 1.2em;
   }
-
   .enquiries {
     font-size: 2em;
   }
-
   .gmaps iframe {
     height: 500px;
     width: 600px;
