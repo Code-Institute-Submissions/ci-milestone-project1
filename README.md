@@ -29,7 +29,6 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 - Embedded Google Maps
   - In order to let users to find the cafe location easily, cafe's custom icon has been added on the embedded Google Maps at the contact us section. Users can interact by zooming in/out on the maps or enlarge the maps.
 
-
 ### Features Left to Implement
 - Reservation feature
   - Users will be able to make a reservation on the site directly.
@@ -57,6 +56,7 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 ## Testing
 
 ## Deployment
+This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`.
 
 
 ## Credits
@@ -64,6 +64,7 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 ### Content
 
 ### Media
+
 
 ### Acknowledgements
 
