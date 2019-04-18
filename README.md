@@ -11,7 +11,8 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 - Navigation bar
   - **Fixed navigation bar at the top:** users can easily reach the navigation menu to return to home or other sections without a need to click on the return button of the browser. 
   - **Hamburger menu:** the navigation bar menu will convert to a hamburger menu when users visit the website on mobile phones or smaller devices. It enhances users' visual experience and users are able to view the information on the website clearly.
-  - **Hamburger menu collapse:** When users click on any items in the menu, it will navigate to the selected section and menu will be collapsed. It provides a great user experience that users can read the information on the website without an extra tap/click to close the menu. 
+  - **Hamburger menu collapse:** When users click on any items in the menu, it will navigate to the selected section and menu will be collapsed. It provides a great user experience that users can read the information on the website without an extra tap/click to close the menu.
+  - **Active link indicator feature:** The item in the menu will be higlighted to indicate which section users is located at on the site.
   - **Smooth scrolling feature:** When users click on any items in the navigation menu, it will smoothly take users to the selected section with great visual experience instead of the default anchor "jump". 
 
 - Carousel
@@ -69,5 +70,7 @@ All photos including background photos were taken from [Pexels](https://www.pexe
 
 
 ### Acknowledgements
+The s
+
 
 **This is for educational use.**
