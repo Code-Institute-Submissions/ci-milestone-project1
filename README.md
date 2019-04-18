@@ -5,6 +5,16 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 
 ## UX
 
+## Features
+
+
+
+### Features Left to Implement
+- Reservation feature
+  - Customers will be able to make a reservation on the site directly.
+- Instagram feed
+  - Recent Instagram feed will be displayed in a new section, Gallery, of the website.
+
 ## Technologies Used
 - HTML5
 - CSS3
@@ -22,10 +32,6 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 - GitHub
 - Google Chrome developer tools
 - Cloud9 IDE
-
-## Features
-
-### Features Left to Implement
 
 ## Testing
 
