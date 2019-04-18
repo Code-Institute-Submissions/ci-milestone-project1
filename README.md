@@ -6,7 +6,10 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 
 ## UX
 
+
 ## Features
+
+#### Existing Features
 - Mobile first
 - Navigation bar
   - **Fixed navigation bar at the top:** users can easily reach the navigation menu to return to home or other sections without a need to click on the return button of the browser. 
@@ -30,7 +33,7 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 - Embedded Google Maps
   - In order to let users to find the cafe location easily, cafe's custom icon has been added on the embedded Google Maps at the contact us section. Users can interact by zooming in/out on the maps or enlarge the maps.
 
-### Features Left to Implement
+#### Features Left to Implement
 - Reservation feature
   - Users will be able to make a reservation on the site directly.
 - Instagram feed
@@ -56,20 +59,21 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 
 ## Testing
 
+
 ## Deployment
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`.
 
 
 ## Credits
 
-### Content
+#### Content
 The contect in all the sections are written by me.
 
-### Media
+#### Media
 All photos including background photos were taken from [Pexels](https://www.pexels.com/).
 
 
-### Acknowledgements
+#### Acknowledgements
 The smooth scrolling and active link indicator features were found through this tutorial [here](https://www.youtube.com/watch?v=x0YnVwAuNQI).
 
 The media query for different device sizes tutorial were found through [here](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488).
