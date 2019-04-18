@@ -64,6 +64,7 @@ This site is hosted using GitHub pages, deployed directly from the master branch
 ### Content
 
 ### Media
+All photos including background photos were taken from [Pexels](https://www.pexels.com/).
 
 
 ### Acknowledgements
