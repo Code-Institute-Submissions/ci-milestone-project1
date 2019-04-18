@@ -70,7 +70,8 @@ All photos including background photos were taken from [Pexels](https://www.pexe
 
 
 ### Acknowledgements
-The s
+The smooth scrolling and active link indicator features were found through this tutorial [here](https://www.youtube.com/watch?v=x0YnVwAuNQI).
 
+The media query for different device sizes tutorial were found through [here](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488).
 
 **This is for educational use.**
