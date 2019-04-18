@@ -78,4 +78,8 @@ The smooth scrolling and active link indicator features were found through this 
 
 The media query for different device sizes tutorial were found through [here](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488).
 
+The wireframes were created through [here](https://marvelapp.com/).
+
+
+
 **This is for educational use.**
