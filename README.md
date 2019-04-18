@@ -5,7 +5,23 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 
 ## UX
 
-## Technologies
+## Technologies Used
+- HTML5
+- CSS3
+- [Bootstrap 4](https://getbootstrap.com/)
+  - Site layout, navigation and photos
+- [jQuery](https://jquery.com/)
+  - Smooth scrolling feature
+  - Active link indicator feature
+- [Font Awesome](https://fontawesome.com/)
+  - Used for all the icons on the site
+- [Google Fonts](https://fonts.google.com)
+- Bash
+- Ubuntu
+- Git
+- GitHub
+- Google Chrome developer tools
+- Cloud9 IDE
 
 ## Features
 
