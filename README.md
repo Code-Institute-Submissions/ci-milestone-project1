@@ -23,7 +23,10 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 ### Font
 - [Roboto](https://fonts.google.com/specimen/Roboto?selection.family=Roboto)
 
-### Colour
+### Colours
+- #fafafa: for titles and text
+- #343a40: for "Our Team" section, navigation bar and footer
+- #dc3545: for staff names and buttons
 
 
 ## Features
