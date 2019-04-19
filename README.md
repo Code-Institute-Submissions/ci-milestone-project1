@@ -60,6 +60,26 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 ## Testing
 
 
+### Browsers and devices
+
+This site was tested across different browsers and on different devices to ensure that this site is responsive and compatible. During the testing, I noticed that ```background-attachment: fixed``` for the background photo was not compatible with mobile devices. On Safari in iOS, the background photos appeared blurry and without the feature of ```background-attachment: fixed```. However, it is working properly and compatible with all the browsers in desktop. This bug will be resolved in the future implementation.
+
+#### Devices:
+- Chrome / Android 7 / Huawei P8 Lite
+- Chrome / Android 7 / Sony Xperia XA
+- Safari / iOS 12 / iPhone SE 
+- Safari / iOS 12 / iPhone 6s Plus
+- Safari / iOS 12 / iPhone XS
+- Safari / iOS 12 / iPad Air 2
+- Opera / iOS 12 / MacBook Pro
+- Firefox / Windows 10 / MSI Notebook
+- Edge / Windows 10 / Dell Notebook
+- Safari / macOS Mojave / iMac
+
+
+
+
+
 ## Deployment
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`.
 
