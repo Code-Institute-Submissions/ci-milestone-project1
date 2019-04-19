@@ -59,6 +59,12 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 
 ## Testing
 
+This site was checked with W3C HTML and CSS validators, no issues were found in the CSS validation. However after the HTML validation, one issue had been found for the value attribute of the submit and subcribe buttons. The value attribute had been provided correctly, however the equal sign was missing for both value attrbiutes, ```value "subscribe"``` and ```value "submit"```. After updated them to ```value="subscribe"``` and ```value="submit"``` and run the HTML validation, this issue was resolved and no other issues found.  
+
+- [W3C HTML Validator](https://validator.w3.org/)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+
 
 ### Browsers and devices
 
