@@ -65,10 +65,18 @@ This site was checked with W3C HTML and CSS validators, no issues were found in 
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 1. Navigation bar:
-  - Click on the company icon: it scrolls back to the home section 
-  - Click on each icon, each icon scrolls up/down to take user to the specified section
-  - The navigation bar converts into a "hamburger menu" when the screen reaches to smaller size or mobile size
-  - "Hambrger menu": click on each item will bring you to the specified section of the site and the menu automatically collapses.
+- Click on the company icon: it scrolls back to the home section 
+- Click on each icon, each icon scrolls up/down to take users to the specified section
+- The navigation bar converts into a "hamburger menu" when the screen reaches to smaller size or mobile size
+- "Hambrger menu": click on each item to ensure that it brings users to the specified section of the site and the menu automatically collapses
+
+2. Subscription form at Workshop section and Enquiries form at Contact Us section:
+- Try to submit the empty form and make sure that an error message about the required fields appears
+- Try to submit the form with an invalid input/email address (such as 22222 and norman"gmail.com) and ensure that a relevant error message appears
+- Try to submit the form with all the valid inputs and confirm that a success message appears
+
+
+
 
 ### Browsers and devices
 
