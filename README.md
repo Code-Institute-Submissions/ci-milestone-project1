@@ -75,7 +75,15 @@ This site was checked with W3C HTML and CSS validators, no issues were found in 
 - Try to submit the form with an invalid input/email address (such as 22222 and norman"gmail.com) and ensure that a relevant error message appears
 - Try to submit the form with all the valid inputs and confirm that a success message appears
 
-
+3. Embedded Google Maps at Contact Us section:
+- Desktop
+  - Click on the cat icon and verify that the details of Maxx Cafe appears 
+  - Click on zoom in/out button and verify that the map is zoomed in/out accordingly
+  - Click on the enlarge button and verify that a new window of large size map is open and displays with a cat icon
+- Mobile
+  - Tap on the cat icon and verify that the details of Maxx Cafe appears 
+  - Tap on zoom in/out button and verify that the map is zoomed in/out accordingly
+  - Try to zoom in/out with two fingers and verify that the map is zoomed in/out accordingly 
 
 
 ### Browsers and devices
