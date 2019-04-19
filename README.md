@@ -66,6 +66,9 @@ This site was tested across different browsers and on different devices to ensur
 
 During the testing on iPhone XS, the site was fitted on its screen, however I realised that there were two photos at the "About Us" section kept refreshing themselves. I tried to comment out the transition and filter properties in CSS but the bug still persisted. After further investigation, I noticed that there was a language translate plugin installed on my friend's iPhone XS. The bug was fixed and photos were displaying correctly when that plugin was disable. 
 
+When testing on iPad in Chrome's Developer Tools, the site was working properly but all the text, icons and photo were too small. To resolve this issue, I have added 'media query' to each section with 'min-width: 768px' and different CSS properties to resize the text, icons, photos, padding, etc. to ensure that those are displaying in a good structure and readible. 
+
+
 #### Devices:
 - Chrome / Android 7 / Huawei P8 Lite
 - Chrome / Android 7 / Sony Xperia XA
