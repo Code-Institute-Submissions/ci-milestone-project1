@@ -69,6 +69,7 @@ This site was checked with W3C HTML and CSS validators, no issues were found in 
 - Click on each icon, each icon scrolls up/down to take users to the specified section
 - The navigation bar converts into a "hamburger menu" when the screen reaches to smaller size or mobile size
 - "Hambrger menu": click on each item to ensure that it brings users to the specified section of the site and the menu automatically collapses
+- Active link indicator feature: scroll up/down to each section and verify that the correct item at the navigation bar is active and in white colour. 
 
 2. Subscription form at Workshop section and Enquiries form at Contact Us section:
 - Try to submit the empty form and make sure that an error message about the required fields appears
@@ -125,7 +126,7 @@ The smooth scrolling and active link indicator features were found through this 
 
 The media query for different device sizes tutorial were found through [here](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488).
 
-The wireframes were created through [here](https://marvelapp.com/).
+The wireframes were created through [Marvel](https://marvelapp.com/).
 
 
 
