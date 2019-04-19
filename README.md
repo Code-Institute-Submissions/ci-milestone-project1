@@ -64,7 +64,11 @@ This site was checked with W3C HTML and CSS validators, no issues were found in 
 - [W3C HTML Validator](https://validator.w3.org/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-
+1. Navigation bar:
+  - Click on the company icon: it scrolls back to the home section 
+  - Click on each icon, each icon scrolls up/down to take user to the specified section
+  - The navigation bar converts into a "hamburger menu" when the screen reaches to smaller size or mobile size
+  - "Hambrger menu": click on each item will bring you to the specified section of the site and the menu automatically collapses.
 
 ### Browsers and devices
 
@@ -87,10 +91,6 @@ When testing on iPad in Chrome's Developer Tools, the site was working properly 
 - Edge / Windows 10 / Dell Notebook
 - Safari / macOS Mojave / iMac
 
-
-
-
-
 ## Deployment
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`.
 
@@ -98,7 +98,7 @@ This site is hosted using GitHub pages, deployed directly from the master branch
 ## Credits
 
 #### Content
-The contect in all the sections are written by me.
+The content in all the sections of the site are written by me.
 
 #### Media
 All photos including background photos were taken from [Pexels](https://www.pexels.com/).
