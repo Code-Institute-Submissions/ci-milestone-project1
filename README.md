@@ -59,10 +59,26 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 
 ## Testing
 
+### UX
+
+Achieve what users need:
+- Able to navigate to each section of the site smoothly without demand of clicking the return button
+- Able to view the photos of Maxx cafe and cats
+- Able to subscribe to the workshop information
+- Able to see the contact information of Maxx Cafe and interact with the embedded map
+- Able to submit their questions in the Enquiries form
+- Able to follow Maxx Cafe on social meda page
+- Able to see the story about Maxx Cafe
+- Able to see the workshop information
+
+### Code
+
 This site was checked with W3C HTML and CSS validators, no issues were found in the CSS validation. However after the HTML validation, one issue had been found for the value attribute of the submit and subcribe buttons. The value attribute had been provided correctly, however the equal sign was missing for both value attrbiutes, ```value "subscribe"``` and ```value "submit"```. After updated them to ```value="subscribe"``` and ```value="submit"``` and run the HTML validation, this issue was resolved and no other issues found.  
 
 - [W3C HTML Validator](https://validator.w3.org/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+### Features
 
 1. Navigation bar:
 - Click on the company icon: it scrolls back to the home section 
@@ -84,8 +100,11 @@ This site was checked with W3C HTML and CSS validators, no issues were found in 
 - Mobile
   - Tap on the cat icon and verify that the details of Maxx Cafe appears 
   - Tap on zoom in/out button and verify that the map is zoomed in/out accordingly
-  - Try to zoom in/out with two fingers and verify that the map is zoomed in/out accordingly 
+  - Try to zoom in/out with two fingers and verify that the map is zoomed in/out accordingly
 
+4. Social media icons at the footer:
+  - Click on each social media icon and verify that the hover feature is active and the colour of each icon will change
+  - Click on each social media icon and verify that each icon opens the link of the social media page in a new tab using ```target="_blank"```
 
 ### Browsers and devices
 
@@ -114,14 +133,14 @@ This site is hosted using GitHub pages, deployed directly from the master branch
 
 ## Credits
 
-#### Content
+### Content
 The content in all the sections of the site are written by me.
 
-#### Media
+### Media
 All photos including background photos were taken from [Pexels](https://www.pexels.com/).
 
 
-#### Acknowledgements
+### Acknowledgements
 The smooth scrolling and active link indicator features were found through this tutorial [here](https://www.youtube.com/watch?v=x0YnVwAuNQI).
 
 The media query for different device sizes tutorial were found through [here](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488).
