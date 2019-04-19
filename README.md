@@ -64,6 +64,8 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 
 This site was tested across different browsers and on different devices to ensure that this site is responsive and compatible. During the testing, I noticed that ```background-attachment: fixed``` for the background photo was not compatible with mobile devices. On Safari in iOS, the background photos appeared blurry and without the feature of ```background-attachment: fixed```. However, it is working properly and compatible with all the browsers in desktop. This bug will be resolved in the future implementation.
 
+During the testing on iPhone XS, the site was fitted on its screen, however I realised that there were two photos at the "About Us" section kept refreshing themselves. I tried to comment out the transition and filter properties in CSS but the bug still persisted. After further investigation, I noticed that there was a language translate plugin installed on my friend's iPhone XS. The bug was fixed and photos were displaying correctly when that plugin was disable. 
+
 #### Devices:
 - Chrome / Android 7 / Huawei P8 Lite
 - Chrome / Android 7 / Sony Xperia XA
