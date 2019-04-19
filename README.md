@@ -18,7 +18,7 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 
 ### Wireframes:
 - Mobile version: [Home](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/home-mob.jpg), [Home with menu](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/home-menu-mob.jpg), [About Us](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/about-us-mob.jpg), [Our Team](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/our-team-mob.jpg), [Workshop](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/workshop-mob.jpg), [Contact Us 1](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/contact-us1-mob.jpg), [Contact Us 2](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/contact-us2-mob.jpg)
-- Desktop version: 
+- Desktop version: [Home](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/home-pc.jpg), [About Us](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/about-us-pc.jpg), [Our Team](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/our-team-pc.jpg), [Workshop](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/workshop-pc.jpg), [Contact Us](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/contact-us-pc.jpg)
 
 
 ## Features
