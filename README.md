@@ -6,6 +6,7 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 
 ## UX
 
+
 ### Objectives
 - Increase the customer numbers
 - Create an online presence
@@ -15,8 +16,22 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 - Cat lovers who enjoy cafe culture
 
 ### Stories
+1. A user wants to know where Maxx Cafe is located
+- Ability to see the address of Maxx Cafe and a clear pin location on map
 
-### Wireframes:
+2. A user wants to know the details of Maxx Cafe's workshops
+- Ability to subscribe and get the latest workshop information
+
+3. A user wants to view the photos of the interior of cafe and the cats in cafe
+- Ability to view the photos in "About Us" and "Our Team" sections
+
+4. A user has general enquiry about the food and drinks menu by email
+- Ability to fill in and submit an enquiry form
+
+
+
+
+### Wireframes
 - Mobile version: [Home](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/home-mob.jpg), [Home with menu](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/home-menu-mob.jpg), [About Us](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/about-us-mob.jpg), [Our Team](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/our-team-mob.jpg), [Workshop](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/workshop-mob.jpg), [Contact Us 1](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/contact-us1-mob.jpg), [Contact Us 2](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/mobile-version/contact-us2-mob.jpg)
 - Desktop version: [Home](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/home-pc.jpg), [About Us](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/about-us-pc.jpg), [Our Team](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/our-team-pc.jpg), [Workshop](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/workshop-pc.jpg), [Contact Us](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/contact-us-pc.jpg)
 
@@ -168,7 +183,3 @@ The smooth scrolling and active link indicator features were found through this 
 The media query for different device sizes tutorial were found through [here](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488).
 
 The wireframes were created through [Marvel](https://marvelapp.com/).
-
-
-
-**This is for educational use.**
