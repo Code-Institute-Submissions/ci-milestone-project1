@@ -12,14 +12,14 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 ### Objectives
 - Increase the customer numbers
 - Create an online presence
-- Share the workshop infomation
+- Share workshop infomation
 
 ### Users
 - Cat lovers who enjoy cafe culture
 
 ### Stories
 - A user wants to know where Maxx Cafe is located
-  - Ability to see the address of Maxx Cafe and a clear pin location on map
+  - Ability to see the address of Maxx Cafe and a clear pin location on the map
 
 - A user wants to know the details of Maxx Cafe's workshops
   - Ability to subscribe and get the latest workshop information
@@ -27,7 +27,7 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 - A user wants to view the photos of the cats and the interior of the cafe
   - Ability to view the photos in "About Us" and "Our Team" sections
 
-- A user has general enquiry about the food and drinks menu
+- A user has a general enquiry about the food and drinks menu
   - Ability to call the cafe or fill in and submit an enquiry form online
 
 ### Wireframes
