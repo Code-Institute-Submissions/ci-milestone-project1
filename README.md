@@ -12,7 +12,7 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 ### Objectives
 - Increase the customer numbers
 - Create an online presence
-- Share workshop infomation
+- Share workshop information
 
 ### Users
 - Cat lovers who enjoy cafe culture
