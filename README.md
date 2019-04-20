@@ -38,11 +38,11 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 ![alt text](https://github.com/normancheng88/ci-milestone-project1/blob/master/assets/images/roboto-sample.jpg "Robot Font Sample")
 
 ### Colours
-![alt text](https://github.com/normancheng88/ci-milestone-project1/blob/master/assets/images/colour-list.jpg "Colour list for Maxx Cafe's site")
 - #fafafa: for titles and text
 - #343a40: for "Our Team" section, navigation bar and footer
 - #dc3545: for staff names and buttons
 
+![alt text](https://github.com/normancheng88/ci-milestone-project1/blob/master/assets/images/colour-list.jpg "Colour list for Maxx Cafe's site")
 
 ## Features
 
