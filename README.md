@@ -58,7 +58,7 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
   - **Smooth scrolling feature:** When users click on any items in the navigation menu, it will smoothly take users to the selected section with a great visual experience instead of the default anchor "jump".
 
 - Carousel
-  - A slideshow at the home section to display professional cat photographs to users. Users can view the previous/following photos by clicking the left/right arrows. The photos will also automatically change to the next one every five seconds.
+  - A slideshow at the home section to display professional cat photographs to users. Users can view the previous/following photos by clicking on the left/right arrows. The photos will also automatically change to the next one every five seconds.
 
 - Subscription form
   - Users can simply subscribe and get the latest workshop information by submitting their email addresses via the subscription form.
@@ -70,7 +70,7 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
   - By clicking on the social media button at the footer, users will be directed to the relevant social media page of the cafe, so they can follow the café’s page and read the latest feed.
 
 - Embedded Google Maps
-  - In order to help users find the cafe location easily, the cafe's custom icon has been added on the embedded Google Maps in the Contact Us section. Users can interact by zooming in/out on the map or by enlarging the map.
+  - In order to help users find the cafe's location easily, the cafe's custom icon has been added on the embedded Google Maps in the Contact Us section. Users can interact by zooming in/out on the map or by enlarging the map.
 
 #### Features Left to Implement
 - Reservation feature
@@ -104,7 +104,7 @@ Fulfil what users need:
 - Able to navigate to each section of the site smoothly without demand of clicking the return button
 - Able to view the photos of Maxx cafe and its resident cats
 - Able to subscribe for the latest workshop information
-- Able to see the contact information of Maxx Cafe and interact with the embedded map
+- Able to see the contact information for Maxx Cafe and interact with the embedded map
 - Able to submit their questions via the Enquiries form
 - Able to follow Maxx Cafe on a variety of social media pages
 - Able to see the background and mission statement of Maxx Cafe
@@ -112,7 +112,7 @@ Fulfil what users need:
 
 ### Code
 
-This site was checked with W3C HTML and CSS validators, and no issues were found in the CSS validation. However, after the HTML validation, one issue had been found for the value attribute of the submit and subcribe buttons. The value attribute had been provided correctly, but the equal sign was missing for both value attrbiutes, ```value "subscribe"``` and ```value "submit"```. Once I had updated the ```value="subscribe"``` and ```value="submit"``` attributes and ran the HTML validation, the issue was resolved and no other issues were found.  
+This site was checked with W3C HTML and CSS validators, and no issues were found in the CSS validation. However, after the HTML validation, one issue had been found for the value attribute of the submit and subscribe buttons. The value attribute had been provided correctly but the equals sign was missing for both value attributes, ```value "subscribe"``` and ```value "submit"```. Once I had updated the ```value="subscribe"``` and ```value="submit"``` attributes and ran the HTML validation, the issue was resolved and no other issues were found.  
 
 - [W3C HTML Validator](https://validator.w3.org/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
