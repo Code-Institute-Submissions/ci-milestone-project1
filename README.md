@@ -33,8 +33,9 @@ A live demo can be found [here](https://normancheng88.github.io/ci-milestone-pro
 - Desktop version: [Home](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/home-pc.jpg), [About Us](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/about-us-pc.jpg), [Our Team](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/our-team-pc.jpg), [Workshop](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/workshop-pc.jpg), [Contact Us](https://github.com/normancheng88/ci-milestone-project1/blob/master/wireframes/pc-version/contact-us-pc.jpg)
 
 ### Font
+- [Roboto](https://fonts.google.com/specimen/Roboto?selection.family=Roboto) - for all the text on the site
+
 ![alt text](https://github.com/normancheng88/ci-milestone-project1/blob/master/assets/images/roboto-sample.jpg "Robot Font Sample")
-- [Roboto](https://fonts.google.com/specimen/Roboto?selection.family=Roboto)
 
 ### Colours
 ![alt text](https://github.com/normancheng88/ci-milestone-project1/blob/master/assets/images/colour-list.jpg "Colour list for Maxx Cafe's site")
