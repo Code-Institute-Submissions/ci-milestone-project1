@@ -166,7 +166,8 @@ When testing on iPad in Chrome's Developer Tools, the site was working properly 
 - Safari / macOS Mojave / iMac
 
 ## Deployment
-This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`.
+This site is coded in Cloud9 IDE, a local Git directory was used for version control. It is
+hosted by using GitHub, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named ```index.html```.
 
 
 ## Credits
